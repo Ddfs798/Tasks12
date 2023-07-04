@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="height">Введите рост</string>
+    <string name="weight">Введите вес</string>
+    <string name="button">Рассчитать</string>
+    <string name="View1">Отслеживание ИМТ</string>
+</resources>
