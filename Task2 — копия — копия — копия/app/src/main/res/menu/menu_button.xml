@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/baseline_pest_control_rodent_24"
+        android:title="Main" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_cruelty_free_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/BMIFragment"
+        android:icon="@drawable/baseline_cloud_24"
+        android:title="BMI" />
+    <item
+        android:id="@+id/caloriesFragment"
+        android:icon="@drawable/baseline_lunch_dining_24"
+        android:checked="true"
+        android:title="Calories" />
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/baseline_settings_24"
+        android:checked="true"
+        android:title="Settings" />
+
+</menu>
