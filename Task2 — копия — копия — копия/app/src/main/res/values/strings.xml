@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hm2</string>
+    <string name="test1">Чтобы продожить терять время перейдите по кнопке №2.</string>
+    <string name="test2">Здесь может быть Ваша реклама.</string>
+    <string name="setting">Что-то настраивается.</string>
+    <string name="prof">Вроде даже работает.</string>
+    <string name="calories">Необязательно считать калории каждый день, можно просто меньше есть.</string>
+    <string name="bml">Тут могло бы быть что-то работающее, но мне не хватило времени.</string>
+</resources>
